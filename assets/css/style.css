@@ -5,13 +5,7 @@ body {
     margin:10px; 
     
     width:960px; height: 960px; }
-    
-.header{
-     
 
-
-
-}
 
 h1 {
 
@@ -123,10 +117,13 @@ a {font-family:'Times New Roman', Times, serif;
   background-color: #4aaaa5;
   color: white;
   text-align: center;
+
+
+
 }
-</style>
+
+#button {background-color: blue;color:pink}
 
 
-            }
-          }
+
     
